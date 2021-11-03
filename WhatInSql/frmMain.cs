@@ -55,7 +55,7 @@ namespace WhatInSql
 
             foreach (var tuple in myVisitor.ListIdentifier)
             {
-                stringTableList.Add(tuple.Item2.ToString().Replace("[", "").Replace("]", ""));
+                stringTableList.Add(tuple.Item2.ToString().Replace("[", "").Replace("]", "").ToUpper());
             }
 
             var orderdDistinctTable = stringTableList.Distinct().OrderBy(a => a);
@@ -73,6 +73,9 @@ namespace WhatInSql
 
         private void btnSearchStart_Click_1(object sender, EventArgs e)
         {
+            txtResult.Text = "";
+            txtResult2.Text = "";
+
             TextReader reader;
 
             if (tabControl1.SelectedIndex == 0)

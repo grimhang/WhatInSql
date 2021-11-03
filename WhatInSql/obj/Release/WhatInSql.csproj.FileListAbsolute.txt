@@ -1,0 +1,12 @@
+d:\Dev\WhatInSql\WhatInSql\bin\Release\WhatInSql.exe.config
+d:\Dev\WhatInSql\WhatInSql\bin\Release\WhatInSql.exe
+d:\Dev\WhatInSql\WhatInSql\bin\Release\WhatInSql.pdb
+d:\Dev\WhatInSql\WhatInSql\bin\Release\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+d:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.Properties.Resources.resources
+d:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.csproj.GenerateResource.cache
+d:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.csproj.CoreCompileInputs.cache
+d:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.csproj.CopyComplete
+d:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.exe
+d:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.pdb
+d:\Dev\WhatInSql\WhatInSql\bin\Release\Sqls\src.sql
+D:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.frmMain.resources

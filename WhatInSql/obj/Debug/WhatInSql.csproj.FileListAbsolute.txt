@@ -9,3 +9,5 @@ D:\Dev\WhatInSql\WhatInSql\obj\Debug\WhatInSql.csproj.CoreCompileInputs.cache
 D:\Dev\WhatInSql\WhatInSql\obj\Debug\WhatInSql.csproj.CopyComplete
 D:\Dev\WhatInSql\WhatInSql\obj\Debug\WhatInSql.exe
 D:\Dev\WhatInSql\WhatInSql\obj\Debug\WhatInSql.pdb
+d:\Dev\WhatInSql\WhatInSql\bin\Debug\Sqls\src.sql
+d:\Dev\WhatInSql\WhatInSql\obj\Debug\WhatInSql.frmMain.resources

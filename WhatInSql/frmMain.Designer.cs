@@ -32,12 +32,12 @@ namespace WhatInSql
             this.txtFilePath = new System.Windows.Forms.TextBox();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabFromSrc = new System.Windows.Forms.TabPage();
+            this.txtSrc = new System.Windows.Forms.RichTextBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.txtResult = new System.Windows.Forms.TextBox();
             this.btnSearchStart = new System.Windows.Forms.Button();
             this.txtTotalCount = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.txtSrc = new System.Windows.Forms.RichTextBox();
             this.txtResult2 = new System.Windows.Forms.TextBox();
             this.tabControl1.SuspendLayout();
             this.tabFromSrc.SuspendLayout();
@@ -73,6 +73,14 @@ namespace WhatInSql
             this.tabFromSrc.Text = "From text";
             this.tabFromSrc.UseVisualStyleBackColor = true;
             // 
+            // txtSrc
+            // 
+            this.txtSrc.Location = new System.Drawing.Point(7, 6);
+            this.txtSrc.Name = "txtSrc";
+            this.txtSrc.Size = new System.Drawing.Size(664, 314);
+            this.txtSrc.TabIndex = 1;
+            this.txtSrc.Text = "";
+            // 
             // tabPage2
             // 
             this.tabPage2.Controls.Add(this.txtFilePath);
@@ -90,6 +98,7 @@ namespace WhatInSql
             this.txtResult.Location = new System.Drawing.Point(5, 423);
             this.txtResult.Multiline = true;
             this.txtResult.Name = "txtResult";
+            this.txtResult.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtResult.Size = new System.Drawing.Size(681, 176);
             this.txtResult.TabIndex = 11;
             // 
@@ -119,20 +128,13 @@ namespace WhatInSql
             this.label3.TabIndex = 13;
             this.label3.Text = "갯수";
             // 
-            // txtSrc
-            // 
-            this.txtSrc.Location = new System.Drawing.Point(7, 6);
-            this.txtSrc.Name = "txtSrc";
-            this.txtSrc.Size = new System.Drawing.Size(664, 314);
-            this.txtSrc.TabIndex = 1;
-            this.txtSrc.Text = "";
-            // 
             // txtResult2
             // 
             this.txtResult2.Font = new System.Drawing.Font("굴림체", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.txtResult2.Location = new System.Drawing.Point(5, 615);
             this.txtResult2.Multiline = true;
             this.txtResult2.Name = "txtResult2";
+            this.txtResult2.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtResult2.Size = new System.Drawing.Size(681, 176);
             this.txtResult2.TabIndex = 15;
             // 
