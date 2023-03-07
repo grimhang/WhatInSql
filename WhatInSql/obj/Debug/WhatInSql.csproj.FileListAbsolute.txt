@@ -11,3 +11,17 @@ D:\Dev\WhatInSql\WhatInSql\obj\Debug\WhatInSql.exe
 D:\Dev\WhatInSql\WhatInSql\obj\Debug\WhatInSql.pdb
 d:\Dev\WhatInSql\WhatInSql\bin\Debug\Sqls\src.sql
 d:\Dev\WhatInSql\WhatInSql\obj\Debug\WhatInSql.frmMain.resources
+E:\_DEV\WhatInSql\WhatInSql\bin\Debug\Sqls\src.sql
+E:\_DEV\WhatInSql\WhatInSql\bin\Debug\WhatInSql.exe.config
+E:\_DEV\WhatInSql\WhatInSql\bin\Debug\WhatInSql.exe
+E:\_DEV\WhatInSql\WhatInSql\bin\Debug\WhatInSql.pdb
+E:\_DEV\WhatInSql\WhatInSql\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.csproj.AssemblyReference.cache
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.csproj.SuggestedBindingRedirects.cache
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.frmMain.resources
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.Properties.Resources.resources
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.csproj.GenerateResource.cache
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.csproj.CoreCompileInputs.cache
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.csproj.CopyComplete
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.exe
+E:\_DEV\WhatInSql\WhatInSql\obj\Debug\WhatInSql.pdb

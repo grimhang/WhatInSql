@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebc3ec89-a371-49e0-9fbb-5ebee1cbe476": {
+      "ProjectGuid": "ebc3ec89-a371-49e0-9fbb-5ebee1cbe476",
+      "DisplayName": "WhatInSql",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

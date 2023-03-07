@@ -10,3 +10,16 @@ d:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.exe
 d:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.pdb
 d:\Dev\WhatInSql\WhatInSql\bin\Release\Sqls\src.sql
 D:\Dev\WhatInSql\WhatInSql\obj\Release\WhatInSql.frmMain.resources
+e:\_DEV\WhatInSql\WhatInSql\bin\Release\Sqls\src.sql
+e:\_DEV\WhatInSql\WhatInSql\bin\Release\WhatInSql.exe.config
+e:\_DEV\WhatInSql\WhatInSql\bin\Release\WhatInSql.exe
+e:\_DEV\WhatInSql\WhatInSql\bin\Release\WhatInSql.pdb
+e:\_DEV\WhatInSql\WhatInSql\bin\Release\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+e:\_DEV\WhatInSql\WhatInSql\obj\Release\WhatInSql.csproj.AssemblyReference.cache
+e:\_DEV\WhatInSql\WhatInSql\obj\Release\WhatInSql.frmMain.resources
+e:\_DEV\WhatInSql\WhatInSql\obj\Release\WhatInSql.Properties.Resources.resources
+e:\_DEV\WhatInSql\WhatInSql\obj\Release\WhatInSql.csproj.GenerateResource.cache
+e:\_DEV\WhatInSql\WhatInSql\obj\Release\WhatInSql.csproj.CoreCompileInputs.cache
+e:\_DEV\WhatInSql\WhatInSql\obj\Release\WhatInSql.csproj.CopyComplete
+e:\_DEV\WhatInSql\WhatInSql\obj\Release\WhatInSql.exe
+e:\_DEV\WhatInSql\WhatInSql\obj\Release\WhatInSql.pdb
